@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "truffle": "^5.0.37"
+    "truffle": "^5.7.9"
   },
   "devDependencies": {},
   "scripts": {
